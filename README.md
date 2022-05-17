@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **wheeler6123@gmail.com**
 
-- ⚡ Fun fact **My first coding experience was writing stylized HTML for eBay listings as an underage teenager**
+- ⚡ Fun fact **My first coding experience was writing stylized HTML for eBay listings as a young teenager**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
